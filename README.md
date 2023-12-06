@@ -24,7 +24,7 @@ This folder contains some the of images used in our analysis.
 This folder contains the cluster code and a csv showing the important features.
 
 ### Sentiment Analysis
-This folder contains the code for the NLP sentiment Analysis
+This folder contains the code for the NLP sentiment Analysis.
 
 ### Presentation and Summary
 This folder contains the powerpoint presentation and executive summary.
