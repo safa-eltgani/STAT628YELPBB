@@ -2,7 +2,7 @@
 
 ### Group 14: Yelp Rating Analysis
 
-### Team Members:
+### Group Members:
 
 Safa Eltgani​
 
