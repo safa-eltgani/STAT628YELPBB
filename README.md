@@ -1,6 +1,7 @@
 # STAT-628-Module-3---Yelp-
 
-###Group 8: Yelp Rating Analysis
+### Group 14: Yelp Rating Analysis
+
 Team Members:
 
 The purpose of this project to help  restaurant owners in Indianapolis improve there average rating and customer statifaction. We use clusters to show relationship between mobilty factors and average rating, we also use NLP sentiment analysis to give them menu suggestions and recommendations.
