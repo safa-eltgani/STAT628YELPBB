@@ -3,8 +3,11 @@
 ### Group 14: Yelp Rating Analysis
 
 ### Team Members:
+
 Safa Eltgani​
+
 Osama Kheshaifaty​
+
 Chixu Ni
 
 ### Overview: 
