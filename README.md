@@ -15,7 +15,7 @@ The purpose of this project to help  restaurant owners in Indianapolis improve t
 
 # Folders
 ### Data Cleaning and EDA
-This folder contains the code that we used to clean data.csv ,the code that we used to create our graphs, and the code that we used to standardize star ratings along with its csv file.
+This folder contains the code that we used to clean data.csv ,and preform data anlaysis on attriubtes such as hours,the code that we used to create our graphs, and the code that we used to standardize star ratings along with its csv file.
 
 ### Modeling
 This folder contains the cluster code and a csv showing the important features.
